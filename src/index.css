@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+    background-image: linear-gradient(#89D4CF,#734AE8);
+    font-family: 'poppins';
+}
